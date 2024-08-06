@@ -66,3 +66,5 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+
+*.exe
